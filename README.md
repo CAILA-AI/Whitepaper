@@ -26,6 +26,38 @@ Caila addresses these limitations by unifying weather sensing, geospatial reason
 - Open Agent API: External agents, mobile apps, and platforms can call Caila to retrieve personalized insights for use in Web2 or Web3 environments.
 - MCP Integration: Fully compatible with BNB Chain’s Modular Chain Protocol, Caila functions as a composable agent module in decentralized agent networks.
 
+## $CA Token Utility: Powering a Weather-Aware, Location-Based Intelligence Ecosystem
+
+The $CA token serves as the native utility asset within our AI-powered weather intelligence network. It enables both consumers and business users to unlock enhanced experiences, access advanced data services, and participate in a weather-responsive, location-aware application layer.
+
+While the core AI agent is currently accessible free of charge, the $CA token empowers users and partners to engage with value-added features and infrastructure, bridging the digital and physical worlds through intelligent climate-contextual interactions.
+
+For Individual Users (To-C): Enriching Daily Life Through Weather and Location Intelligence
+
+1. Contextual Lifestyle Recommendations
+Users may spend $CA to access AI-generated, hyper-localized suggestions for dining, entertainment, and leisure activities—dynamically tailored based on real-time weather conditions and geographic location.
+Examples include recommending outdoor cafés on sunny afternoons, cozy indoor venues during rain, or optimal weekend outings based on upcoming forecasts.
+
+2. Premium Forecasting and Alerts
+$CA grants access to extended and location-specific weather services, including microclimate forecasting, early warning alerts, and long-range planning tools—enabling smarter lifestyle decisions grounded in environmental awareness.
+
+For Business Users (To-B): Enabling Intelligent Exposure and Data Access
+
+a. For Developers and Technical Integrators
+Weather Data API Access
+1. Independent developers and platform builders can utilize $CA to access structured, high-resolution weather data APIs. These APIs are tailored for diverse applications such as logistics, mobility, travel, smart devices, and environmental monitoring.
+
+2. Modular, Scalable Access Model
+Through a token-based pay-as-you-go model, developers may flexibly scale API usage without committing to rigid licensing schemes—supporting both experimentation and large-scale deployment.
+
+b. For Local Businesses and Commercial Partners
+
+1. Sponsored Placement in LBS Recommendations
+Businesses may spend $CA to promote their venues or services through sponsored entries in the app’s AI-generated local recommendations. These placements are weather-aware, ensuring optimal visibility during moments of highest contextual relevance (e.g., hot drinks in cold weather, outdoor events on clear days).
+
+2. Geo-Climatic Behavioral Insights
+Enterprises can leverage $CA to access analytics derived from aggregated user-weather interaction patterns within defined geographic zones—providing strategic intelligence for operational, marketing, or inventory planning.
+
 ## Example Use Cases
 
 Mobility & Navigation
